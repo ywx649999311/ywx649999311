@@ -11,8 +11,8 @@ Beyond research, I enjoy developing **open-source tools** that support the broad
 - Application of statistical and deep-learning techniques to astronomical data sets
 
 ## Machine Learning Interests
-- Representation learning for irregular, multi-band, multi-modal datasets
-- Time-series analysis (GPs)
+- Representation learning for multi-modal (time-series + imaging + spectrum + multi-wavelength photometry + ...) datasets
+- Time-series analysis of irregularly-sampled data
 - Uncertainty quantification
 - Scalable data processing for large sky surveys
 
