@@ -16,9 +16,6 @@ Beyond research, I enjoy developing **open-source tools** that support the broad
 - Uncertainty quantification
 - Scalable data processing for large sky surveys
 
-## CV
-[PDF Link](https://www.dropbox.com/scl/fi/0kntl43260ymd2k080j26/Yu_CV_12_2025.pdf?rlkey=ryjuwghf59kpxwtnqbowbfjaf&st=123vrp6i&dl=0)
-
 ## Publications
 - Google Scholar => [Link](https://scholar.google.com/citations?user=BOEyccIAAAAJ&hl=en)
 - ADS => [Link](https://ui.adsabs.harvard.edu/search/p_=0&q=orcid%3A0000-0003-1262-2897&sort=date%20desc%2C%20bibcode%20desc)
